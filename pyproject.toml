@@ -5,7 +5,7 @@ description = "Wake On Lan Webhook / API"
 authors = ["Jorge Ruiz <contact@jorgeruizdev.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "wol"}]
+
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
